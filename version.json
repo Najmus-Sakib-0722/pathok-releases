@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "apk_url": "https://github.com/YOUR_USER/pathok-releases/releases/download/v1.1.0/pathok_v1.1.0.apk",
+  "changelog": "১. নাইট মোড ফিক্স করা হয়েছে\n২. লোডিং স্পিড বাড়ানো হয়েছে\n৩. নতুন ৫টি বই যুক্ত করা হয়েছে",
+  "force_update": false
+}
